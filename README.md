@@ -52,13 +52,20 @@ Shows analytics & impact dashboards
 
 📚 Vaccine Awareness & Education
 
-#Google Platforms & Technologies Used
+Google Platforms & Technologies Used
+
 Google Colab
+
 Google Gemini
+
 Google Sheets
+
 Google Drive
+
 Google Chrome DevTools
+
 Google Search
+
 Google Developer Documentation
 
 🧠 Machine Learning Models
